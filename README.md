@@ -10,4 +10,4 @@ The project simulates a board game rental interface and was used to practice:
 
 > Made for educational purposes only.
 
-Live preview: [https://lariraupp.github.io/AluGames](https://lariraupp.github.io/AluGames)
+🌐 [View Live Project](https://lariraupp.github.io/alugames)
