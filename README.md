@@ -1,13 +1,13 @@
 # AluGames
 
-This is a simple HTML and CSS project developed as part of the Alura course.
+This is a simple board game rental interface developed as part of an Alura course.
 
-The project simulates a board game rental interface and was used to practice:
+It includes:
 
-- Basic HTML structure
-- CSS layout and styling
-- Visual design for web dashboards
+- HTML layout for listing games
+- CSS for a themed, gradient-styled interface
+- JavaScript functionality to rent and return games with status toggle
 
-> Made for educational purposes only.
+All interactions are local and for educational purposes only.
 
-🌐 [View Live Project](https://lariraupp.github.io/alugames)
+🌐 [View Live Project](https://lariraupp.github.io/alugames/)
